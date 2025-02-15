@@ -22,10 +22,10 @@
         <mxCell id="z8EFFu52W9cVrzL_I5Kp-14" value="+ fixed:boolean&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="z8EFFu52W9cVrzL_I5Kp-13">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z8EFFu52W9cVrzL_I5Kp-15" value="+ number:integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="z8EFFu52W9cVrzL_I5Kp-13">
+        <mxCell id="z8EFFu52W9cVrzL_I5Kp-15" value="+ actual: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="z8EFFu52W9cVrzL_I5Kp-13">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z8EFFu52W9cVrzL_I5Kp-16" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="z8EFFu52W9cVrzL_I5Kp-13">
+        <mxCell id="z8EFFu52W9cVrzL_I5Kp-16" value="+ expected: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="z8EFFu52W9cVrzL_I5Kp-13">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
